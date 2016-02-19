@@ -27,11 +27,8 @@ PRODUCT_PACKAGES := \
 	Gallery \
 	GestureBuilder \
 	Launcher3 \
-	LegacyCamera \
 	librs_jni \
 	LiveWallpapersPicker \
-	Mms \
-	Music \
 	rild \
 	SdkSetup \
 	SmokeTest \
